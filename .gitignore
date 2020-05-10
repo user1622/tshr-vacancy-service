@@ -33,3 +33,5 @@
 
 /config/database.yml
 .idea
+
+/config/credentials/production.key
